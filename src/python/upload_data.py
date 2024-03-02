@@ -7,7 +7,7 @@ import sqlalchemy
 str_connection = 'sqlite:///{path}'
 
 #Os endereços do projeto e de sub pastas
-BASE_DIR = os.path.dirname( os.path.dirname( os.path.abspath( __file__ ) ) )
+BASE_DIR = os.path.dirname( os.path.dirname( os.path.dirname( os.path.abspath( __file__ ) ) ))
 DATA_DIR = os.path.join( BASE_DIR, 'data' )
 
 # Uma forma elegante de encontrar os arquivos de dados        
