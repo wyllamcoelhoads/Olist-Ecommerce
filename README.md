@@ -4,4 +4,4 @@
 
 [Datasets Kaggle Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-[Deecrowd Pytho](https://judge.beecrowd.com/pt/login?redirect=%2Fpt)
+[Deecrowd Python](https://judge.beecrowd.com/pt/login?redirect=%2Fpt)
